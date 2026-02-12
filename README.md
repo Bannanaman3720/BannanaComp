@@ -1,6 +1,6 @@
 Yo Wsg. This a Libary of a bunch of compiled games that you can use
 
-there free to use libary of 670ish games rn.
+there free to use libary of 1070ish games rn.
 
 Im working on a big update ading 2k more games. check back regularly.
 
