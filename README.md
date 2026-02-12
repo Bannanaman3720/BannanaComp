@@ -8,7 +8,9 @@ v1 is basic games and barley worth it.
 
 v2 is the big unchecked unregluated pile.
 
-2big is the files to big to add. (Essentailly im trying to keep the zip under 25mb so it can be gmailed without a google drive link)
+V3 is Imcomplete. im gonna release it in chunks so expect it to be updated frequently.
+
+full compile is just a single file to download v1 v2 v3 in one click nothing diffrent
 
 have fun
 
