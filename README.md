@@ -8,9 +8,11 @@ v1 is basic games and barley worth it.
 
 v2 is the big unchecked unregluated pile.
 
-V3 is Imcomplete. im gonna release it in chunks so expect it to be updated frequently.
+V3 is Imcomplete. im gonna release it in chunks so expect it to be updated frequently. release 1/???
 
 full compile is just a single file to download v1 v2 v3 in one click nothing diffrent
+
+in the complete file there is a folder named SL. It gives you the full libary of games in v3 with the trade of of it being extremly hard to use unorganized. and half the games dont work. use it at your own discresion
 
 have fun
 
