@@ -1,14 +1,14 @@
 Yo Wsg. This a Libary of a bunch of compiled games that you can use
 
-there free to use libary of 1070ish games rn.
+there free to use libary of 2600ish games rn.
 
-Im working on a big update ading 2k more games. check back regularly.
+im done updating for a while
 
 v1 is basic games and barley worth it.
 
 v2 is the big unchecked unregluated pile.
 
-V3 is Imcomplete. im gonna release it in chunks so expect it to be updated frequently. release 1/???
+V3 is now complete. It holds most of the games and I gave up on Checking 1800 games manually so If a game does not work dont bother asking
 
 full compile is just a single file to download v1 v2 v3 in one click nothing diffrent
 
